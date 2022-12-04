@@ -1,4 +1,4 @@
-module hidb
+module github.com/tradjick/hidb
 
 go 1.19
 
